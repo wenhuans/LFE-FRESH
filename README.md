@@ -1,5 +1,7 @@
 ## LFE-FRESH
-2D and 3D G-code planning software for an open-sourced long fiber embedded hydrogel 3D print head 
+2D and 3D G-code planning code for an open-sourced long fiber embedded hydrogel 3D print head
+
+(* Mechanical assembly and usage of the printer will be made available once the manuscript is published)
 
 # Steps to process a preliminary (motion control only without extrusion control) G-code file for 2D fiber embedding:
 Requirement: a preliminary G-code file (.gcode) produced by DXF2GCODE (https://sourceforge.net/projects/dxf2gcode/), e.g., motion_only.gcode
